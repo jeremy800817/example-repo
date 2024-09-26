@@ -1,1 +1,2 @@
-hello
+This is bare repo create by local git server
+this repo use to serve those client not able to visit 3rd party git server like github, bic=tbucket, etc...
